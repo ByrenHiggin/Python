@@ -1,10 +1,10 @@
 # Licenced under the Creative Commons Attribution-ShareAlike 4.0 licence.
 # https://creativecommons.org/licenses/by-sa/4.0/ 
 #
-# Feel free to use this all you want, regardless of changes made. Just make sure you give appropriate credit
+# Feel free to use this all you want non-commercially, regardless of changes made. Just make sure you give appropriate credit
 # and indicate any changes made (feel free to fork and pull this with your own changes so I can see how it could be improved).
-# I would like this to be used non-commercially, but if you have a cool application idea for this let me know and maybe we 
-# can make something together. Cheers, Byren Higgin (https://github.com/ByrenHiggin)
+# If you would like to use this commercially, let me know and maybe we can make something together. 
+# Cheers, Byren Higgin (https://github.com/ByrenHiggin)
 
 from __future__ import print_function
 
